@@ -1,8 +1,4 @@
-# creditcardfrauddetection
-📄 Here’s the README.md you should put:
-markdown
-Copy
-Edit
+
 # Credit Card Fraud Detection
 
 ## Objective
@@ -16,8 +12,7 @@ The goal of this project is to build a machine learning model that accurately di
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/y
-   /credit-card-fraud-detection.git
+  gh repo clone Thiru9160/creditcardfrauddetection
    cd credit-card-fraud-detection
 Install the dependencies:
 
